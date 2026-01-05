@@ -73,10 +73,13 @@ section {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
-section h2 {
+section header h2 {
   margin-top: 0;
-  color: #4c1d95;
+  color: #f5f3ff;   /* soft white, easy on the eyes */
+  font-weight: 600;
+  letter-spacing: 0.5px;
 }
+
 
 /* =========================
    Footer
