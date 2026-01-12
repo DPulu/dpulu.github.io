@@ -136,3 +136,9 @@ footer {
 #projects col.project-col {
   background-color: #f3e8ff;
 }
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
